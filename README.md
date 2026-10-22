@@ -1,3 +1,5 @@
+![banner](assets/banner.png)
+
 # Cybersecurity Portfolio
 
 A collection of cybersecurity write-ups and content created to demonstrate knowledge and understanding of tasks and exercises, built during my Certificate IV in Cyber Security at TAFE Queensland.
