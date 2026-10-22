@@ -8,4 +8,8 @@ A collection of cybersecurity write-ups and content created to demonstrate knowl
   - [Red team: attack chain](incident-response-redblue/red-team.md)
   - [Blue team: detection and response](incident-response-redblue/blue-team.md)
 
+## Small projects
+
+- [**Phishing Response Poster**](small-projects/phishing-response-poster.png) — a quick-reference poster on recognising and responding to phishing emails, recreated from an original flowchart I built in draw.io for a TAFE assessment.
+
 More to come as the cert progresses.
