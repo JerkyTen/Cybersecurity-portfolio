@@ -4,8 +4,8 @@ A collection of cybersecurity write-ups and content created to demonstrate knowl
 
 ## Projects
 
-- [**Incident Response Exercise (IRTx)**](incident-response-irtx/) — a full attack chain against an isolated lab network, run and documented from both the attacker's side and the defender's side.
-  - [Red team: attack chain](incident-response-irtx/red-team.md)
-  - [Blue team: detection and response](incident-response-irtx/blue-team.md)
+- [**Incident Response Exercise**](incident-response-redblue/) — a full attack chain against an isolated lab network, run and documented from both the attacker's side and the defender's side.
+  - [Red team: attack chain](incident-response-redblue/red-team.md)
+  - [Blue team: detection and response](incident-response-redblue/blue-team.md)
 
 More to come as the cert progresses.
